@@ -1,0 +1,17 @@
+/*
+  Colors and fonts
+*/
+
+@import url("https://fonts.googleapis.com/css2?family=Bangers&family=Karantina:wght@400;700&family=Lato:wght@400;700&family=Press+Start+2P&family=Roboto:wght@400;700&display=swap");
+$font-start: "Press Start 2P";
+
+$primary-gray: #50514f;
+$primary-red: #f25f5c;
+$primary-yellow: #ffe066;
+$primary-blue: #247ba0;
+$secondary-blue: #70c1b3;
+$background-white: whitesmoke;
+
+.primary-blue {
+    color: $primary-blue !important;
+}
